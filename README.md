@@ -1,21 +1,18 @@
-# Recent Research Talks 最近的研究讲义
+# Recent Research Talks 
 * ### [When Probabilities meet Neural Networks (PPT) Presentation at Sinovation DeeCamp & Peking University, July 2018](https://github.com/roboticcam/machine-learning-notes/blob/master/DeeCamp2018_Xu_final.pptx) ###
 
 Topics include: Expectation-Maximization & Matrix Capsule Networks; Determinantal Point Process & Neural Networks compression; Kalman Filter & LSTM; Model estimation & Binary classifier
 
-2018年7月在创新工厂和北大合办的DeeCamp的课件(当概率遇到神经网络) 主题包括：EM算法和矩阵胶囊网络; 行列式点过程和神经网络压缩; 卡尔曼滤波器和LSTM; 模型估计和二分类问题关系
-
 * ### [Noise Contrastive Estimation, Re-parameterization, Natural Gradients](https://github.com/roboticcam/machine-learning-notes/blob/master/selected_probability.pdf) ###
 Detailed illustration of Noise Contrastive Estimation (detals & derivations), Probability Density Re-parameterization, Natural Gradients  
-噪声对比估计 (noise Contrastive Estimation), 概率密度再参数化以及自然梯度的详细说明 
 
-# Video Tutorial to these notes 视频资料
+# Video Tutorial to these notes
 
 * I recorded about 20% of these notes in videos in 2015 in Mandarin (all my notes and writings are in English) You may find them on [Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) and [bilibili](https://space.bilibili.com/327617676) and [Youku](http://i.youku.com/i/UMzIzNDgxNTg5Ng)       
 
 我在2015年用中文录制了这些课件中约20％的内容 (我目前的课件都是英文的)大家可以在[Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) [哔哩哔哩](https://space.bilibili.com/327617676) and [优酷](http://i.youku.com/i/UMzIzNDgxNTg5Ng) 下载
 
-# Data Science 数据科学课件
+# Data Science 
 
 * ### [30 minutes introduction to AI and Machine Learning](https://github.com/roboticcam/machine-learning-notes/blob/master/30_min_AI.pptx)
 An extremely gentle 30 minutes introduction to AI and Machine Learning. Thanks to my PhD student Haodong Chang for assist editing
